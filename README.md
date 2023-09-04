@@ -33,6 +33,9 @@ npx prisma init --datasource-provider sqlite
 ## Criando o SQLite database
 npx prisma migrate dev --name init
 
-
+## Participantes do projeto
+Gabriel Pádua
+Lucas Sardinha 
+Matheus Sardinha
 
 
